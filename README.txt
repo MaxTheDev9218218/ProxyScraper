@@ -12,3 +12,5 @@ Once your done, the hitrate is EXTREMLY high but not 100%.
 
 Virus total
 https://www.virustotal.com/gui/file/866b195872c38e1f148e00c612dd4c9d8855880ab72fb8ef5520a1d4af8d96ae
+
+@exstid on discord
